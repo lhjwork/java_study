@@ -1,0 +1,20 @@
+package ch01;
+
+
+class Note {
+	int price = 2000;
+}
+
+
+
+public class varEx04 {
+	
+
+	public static void main(String[] args) {
+		new Note(); // heap 공간에 Note 클래스 가지고 있는 모든 데이터를 할당해!! (대신 static은 제외하고)
+		new Note(); // -> Note type의 자료형이 heap 공간에 생긴다. 
+		new Note();
+		int age = 25;
+	}
+
+}

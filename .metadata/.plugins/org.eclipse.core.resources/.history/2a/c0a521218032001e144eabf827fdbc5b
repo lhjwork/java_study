@@ -1,0 +1,16 @@
+package ch01;
+
+public class FishBread {
+	
+	class Fb {
+		int price = 1000;
+		String taste = "sweet";
+		String color = "yellow";
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

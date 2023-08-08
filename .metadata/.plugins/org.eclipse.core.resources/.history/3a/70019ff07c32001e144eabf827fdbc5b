@@ -1,0 +1,16 @@
+package ch01;
+
+public class varEx04 {
+	
+	class Note {
+		int num = 1;
+		int time = 1015;
+		int price  = 3000;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
