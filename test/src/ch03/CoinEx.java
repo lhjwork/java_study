@@ -13,10 +13,7 @@ public class CoinEx {
 		int count10 = 0;
 		
 		
-	
-	
-		
-		
+
 		
 		// ╫╨ег 1
 		System.out.println("500©Ь :"+ (restMoney/500));
