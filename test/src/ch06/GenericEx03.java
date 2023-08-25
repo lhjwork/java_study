@@ -74,7 +74,6 @@ public class GenericEx03 {
 		
 		
 		// 공은 getName 메소드가 없다.
-	
 		System.out.println(r1.getData().getName());
 		System.out.println(r2.getData().getName());
 		
